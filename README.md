@@ -1,6 +1,8 @@
 ## Witaj, jestem CoffeePlayer 👋
+
+O Mnie
+Jestem programista, ktory stawia na staranosc, umiejetnosc oraz zadowolenie klieta.Tworze podstawowe strony internetowe typu strona wizytowka albo portfolio.
 --
- O MnieJestem programista, ktory stawia na staranosc, umiejetnosc oraz zadowolenie klieta.Tworze podstawowe strony internetowe typu strona wizytowka albo portfolio.
 
 <br>
 🛠️ Technologie i Narzędzia jakich używam
