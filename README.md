@@ -6,6 +6,7 @@ Jestem programista, ktory stawia na staranosc, umiejetnosc oraz zadowolenie klie
 
 <br>
 🛠️ Technologie i Narzędzia jakich używam
+<h5>   <h5>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
     <h1>   <h1>
