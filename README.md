@@ -8,6 +8,7 @@ Jestem programista, ktory stawia na staranosc, umiejetnosc oraz zadowolenie klie
 🛠️ Technologie i Narzędzia jakich używam
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
+    <h1>   <h1>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaFX-ED8020?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX"/></a>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
