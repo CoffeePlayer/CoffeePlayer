@@ -4,7 +4,6 @@ O Mnie
 Jestem programistą, który stawia na staranność, umiejętność oraz zadowolenie klięta.Tworze
 Aplikacje desktopowe, Pluginy Do Serwerów Minecraft, Konfigurację Pluginów Minecraft, zwykłe konsolowe aplikacje z wykorzystaniem najróżniejszych bibliotek w Java lub Kotlin, podstawowe strony internetowe typu strona wizytówka albo portfolio.
 
---
 
 <br>
 🛠️ Technologie i Narzędzia jakich używam
