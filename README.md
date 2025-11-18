@@ -1,7 +1,9 @@
-## Witaj, jestem CoffeePlayer 👋
+# Witaj, jestem CoffeePlayer 👋
 
 O Mnie
-Jestem programista, ktory stawia na staranosc, umiejetnosc oraz zadowolenie klieta.Tworze podstawowe strony internetowe typu strona wizytowka albo portfolio.
+Jestem programistą, który stawia na staranność, umiejętność oraz zadowolenie klięta.Tworze
+Aplikacje desktopowe, Pluginy Do Serwerów Minecraft, Konfigurację Pluginów Minecraft, zwykłe konsolowe aplikacje z wykorzystaniem najróżniejszych bibliotek w Java lub Kotlin, podstawowe strony internetowe typu strona wizytówka albo portfolio.
+
 --
 
 <br>
