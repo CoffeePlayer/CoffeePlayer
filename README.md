@@ -6,7 +6,7 @@ Aplikacje desktopowe, Pluginy Do Serwerów Minecraft, Konfigurację Pluginów Mi
 
 
 <br>
-## 🛠️ Technologie i Narzędzia jakich używam
+🛠️ Technologie i Narzędzia jakich używam
 <h5>   <h5>
 <p align="left">
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/></a>
