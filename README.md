@@ -13,10 +13,12 @@ Aplikacje desktopowe, Pluginy Do Serwerów Minecraft, Konfigurację Pluginów Mi
     <h1>   <h1>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></a>
     <h2>   <h2>
-    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaFX-ED8020?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX"/></a>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/></a>
     <h3>   <h3>
+    <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/JavaFX-ED8020?style=for-the-badge&logo=javafx&logoColor=white" alt="JavaFX"/></a>
+    <h4>   <h4>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/></a>
-     <h4>   <h4>
+     <h5>   <h5>
     <a target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/></a>
 </p>
 <h6>   <h6>
